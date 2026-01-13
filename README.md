@@ -13,6 +13,13 @@ Jhiku Enterprise is engaged in lawful activities of Printing and Graphic Designi
 - For printing-related enquiries and confirmed printing orders, customers must also mark a copy to: angelprintingindustries@gmail.com and send an SMS to: 8700351884.
 - For flower-selling and flower-decoration confirmed orders, customers must send an email to: babu.nayak121117@gmail.com and an SMS to: 7678385838, in addition to contacting jhiku3031@gmail.com and 7200935012.
 
+## 2.1 Required notifications (order execution rule)
+
+- Required: Orders will NOT be processed, produced, or executed unless BOTH of the following are received from the customer:
+  1. An email to jhiku3031@gmail.com; and
+  2. An SMS to 7200935012.
+- If these two required notifications are not received, Jhiku Enterprise will not begin production, delivery, or any order‑related work. This requirement ensures we have clear, documented authorization to proceed.
+
 ## 3. Contact Summary
 
 - General enquiries / Orders (required):
